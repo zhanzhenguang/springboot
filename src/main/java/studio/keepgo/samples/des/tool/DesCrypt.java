@@ -22,6 +22,7 @@ import org.apache.tomcat.util.codec.binary.Base64;
 public class DesCrypt {
 	
     private String KEY = "password111111";
+    
     private String CODE_TYPE = "UTF-8";
 
     public static void main(String[] args) throws Exception {
